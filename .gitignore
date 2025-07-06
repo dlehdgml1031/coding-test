@@ -169,4 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PDF file
 *.pdf
+
+# 
+*.out
+*.o
