@@ -173,6 +173,13 @@ cython_debug/
 # PDF file
 *.pdf
 
-# 
+# Compile file
 *.out
 *.o
+
+# ETC
+settings.json
+*.DS_Store
+
+# Dir
+# cpp_coding_test/
