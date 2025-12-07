@@ -1,5 +1,3 @@
-import sys
-
 def fibonacci(n):
     # Base Case
     if n <= 1:
